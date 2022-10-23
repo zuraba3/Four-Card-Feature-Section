@@ -20,12 +20,11 @@ This is a solution to the [Four card feature section](https://www.frontendmentor
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [GitHub Live URL]()
+- Solution URL: [Solution](https://github.com/zuraba3/Four-Card-Feature-Section)
+- Live Site URL: [GitHub Live URL](https://zuraba3.github.io/Four-Card-Feature-Section/)
 
 ## My process
 
-- This is my second fully responsive website. It was a really good experience to work on this project.
 
 ### Built with
 
