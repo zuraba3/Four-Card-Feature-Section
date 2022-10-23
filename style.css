@@ -105,7 +105,7 @@ header p {
   left: 70%;
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1240px) {
   .h2-1,
   .h2-2 {
     font-size: 32px;
@@ -124,6 +124,12 @@ header p {
   .blue,
   .cyan {
     margin-bottom: 0px;
+  }
+  .cyan {
+    margin-left: 165px;
+  }
+  .blue {
+    margin-right: 165px;
   }
   .red {
     margin-bottom: 30px;
